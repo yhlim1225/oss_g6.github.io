@@ -25,10 +25,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    github:  yhlim1225/OSS_G6
  
 
 # If you want to link only specific pages in your header, uncomment
