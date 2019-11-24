@@ -16,8 +16,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Open Source C++ Algorithm Library Project
+  tagline: YJK, WSA, TYJ, YHL. 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
