@@ -2,9 +2,7 @@ title: OSS_G6 C++ Algorithm Library Project
 author: yhlim
 email: yhlim1225@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is open source project for C++ modulized algorithm library.
 show_excerpts: true # set to true to show excerpts on the homepage
 #baseurl: /texture
 remote_theme: thelehhman/texture
@@ -18,10 +16,11 @@ permalink: /posts/:title/
 texture:
   title: Open Source C++ Algorithm Library Project
   tagline: YJK, WSA, TYJ, YHL. 
-  date_format: "%b %-d, %Y"
-  style: black
-  showNav: false
-  showPicker: true
+  date_format: "%Y %b %-d"
+  style: green
+  showNav: true
+  showPicker: false
+  disqus_shortname: darkchoc
 
   # generate social links in footer
   social_links:
