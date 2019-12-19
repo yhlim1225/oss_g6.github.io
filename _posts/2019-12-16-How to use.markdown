@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "How to use"
+date:   2019-12-16 15:03:36 +0530
+categories: C++
+---
+
+How to use the source files
+----
+Put the headers that is going to be used with your source code at the same directory and simply include and use the functions. 
+```C++
+#include "PrimMst"
+```
+or
+```C++
+#include <PrimMst>
+```
+By copying the header files into the glibc include directory (ex. /usr/include/c++/VERSIONS/) which might be only for linux glibc, but please bear in mind that this project does not guarantee that the functions will be completely fine with other standard libraries.
+
+Demos
+----
+You can try the demo source files as an example of how to use the implemented algorithms after correctly adding those headers. Simply just compile the demo source with g++ and run would be the whole process. We have designed to do so since the simplicity is very important on understanding and comfortably get used on. 
