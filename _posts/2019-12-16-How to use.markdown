@@ -6,6 +6,7 @@ categories: C++
 ---
 
 Put the headers that is going to be used with your source code at the same directory and simply include and use the functions. 
+
 ```C++
 #include "PrimMst"
 ```
