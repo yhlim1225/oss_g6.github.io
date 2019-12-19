@@ -5,8 +5,7 @@ description: List the algorithms that are implemented.
 date:   2019-12-15 21:03:36 +0530
 categories: C++
 ---
-Implemented algorithms
-----
+
 This is the list of algorithms that currently implemented on this project and there would be some that are going to be added as future works.
 
  * [Prim Minimum Spanning Tree](https://github.com/yhlim1225/OSS_G6/blob/master/algorithm_headers/PrimMst.h) 

@@ -5,8 +5,6 @@ date:   2019-12-16 15:03:36 +0530
 categories: C++
 ---
 
-How to use the source files
-----
 Put the headers that is going to be used with your source code at the same directory and simply include and use the functions. 
 ```C++
 #include "PrimMst"

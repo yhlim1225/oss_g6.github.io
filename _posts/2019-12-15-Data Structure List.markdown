@@ -5,8 +5,6 @@ date:   2019-12-15 12:06:17 +0530
 categories: C++
 ---
 
-Data Structures
-----
 Some of the implemented algorithms used the data structure defined in different header and may have demo for themselves. The headers for the specific data structure involves their own operations. Please check out the links below for further information.
 
 * [Trie](https://github.com/yhlim1225/OSS_G6/blob/master/algorithm_headers/trie.h)

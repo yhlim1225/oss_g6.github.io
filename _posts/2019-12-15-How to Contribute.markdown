@@ -3,9 +3,8 @@ layout: post
 title:  "Contributions"
 date:   2019-12-15 12:21:06 +0530
 ---
-# How to contribute
 
-To be sure, This project is for learning and practicing algorithms with C++ language.
+To be sure, this project is for learning and practicing algorithms with C++ language.
 
 Anyone who wants to practice algorithms in c++ without standard algorithm header files is welcomed to contribute on our project!
 Please raise issues when needed for bugs or requesting new features.

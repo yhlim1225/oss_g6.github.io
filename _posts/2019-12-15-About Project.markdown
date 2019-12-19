@@ -3,8 +3,6 @@ layout: post
 title:  "OSS_G6 Project"
 date:   2019-12-15 12:03:36 +0530
 ---
-# OSS_G6
-
 This project is for SKKU SOSC term project. 
 
 C++ Modulized Algorithms 
