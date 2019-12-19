@@ -71,7 +71,7 @@ Mergesort is a comparison-based algorithm that focuses on how to merge together 
 
 Insertion sort is a comparison-based algorithm that builds a final sorted array one element at a time. It iterates through an input array and removes one element per iteration, finds the place the element belongs in the array, and then places it there.
 
-![insertion-sort-image](https://github.com/yhlim1225/oss_g6_web/_post/insertion.gif)
+![insertion-sort-image](https://github.com/yhlim1225/oss_g6_web/blob/master/_posts/insertion.gif)
 
 #### Bubble Sort_post
 
@@ -81,12 +81,12 @@ Bubble sort is a comparison​-based algorithm that compares each pair of elemen
 
 Quicksort is a comparison-based algorithm that uses divide-and-conquer to sort an array. The algorithm picks a pivot element, A\[q\], and then rearranges the array into two subarrays A\[p…q−1\], such that all elements are less than A\[q\], and A\[q+1…r\], such that all elements are greater than or equal to A\[q\].
 
-![quick-sort-image](https://github.com/yhlim1225/oss_g6_web/_post/quicksort.gif)
+![quick-sort-image](https://github.com/yhlim1225/oss_g6_web/blob/master/_posts/quicksort.gif)
 #### Heapsort
 
 Heapsort is a comparison-based algorithm that uses a binary heap data structure to sort elements. It divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element and moving that to the sorted region.
 
-![heap-sort-image](https://github.com/yhlim1225/oss_g6_web/_post/heapsort.gif)
+![heap-sort-image](https://github.com/yhlim1225/oss_g6_web/blob/master/_posts/heapsort.gif)
 
 
 
