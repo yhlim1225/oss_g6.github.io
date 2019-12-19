@@ -20,8 +20,8 @@ Comparison sorts compare elements at each step of the algorithm to determine if 
 
 Comparison sorts are usually more straightforward to implement than integer sorts, but comparison sorts are limited by a lower bound of O(*n*log*n*), meaning that, on average, comparison sorts cannot be faster than O(*n*log*n*). A lower bound for an algorithm is the worst-case running time of the best possible algorithm for a given problem. The "on average" part here is important: there are many algorithms that run in very fast time if the inputted list is already sorted, or has some very particular (and overall unlikely) property. There is only one permutation of a list that is sorted, but *n*! possible lists, so the chances that the input is already sorted is very unlikely, and on average, the list will not be very sorted.
 
-
-Proof
+---
+***Proof***
 
 The running time of comparison-based sorting algorithms is bounded by Ω(*n*log*n*).
 
@@ -52,6 +52,7 @@ Therefore,
 >    = *n* log *n* − *n* log *e*
 >
 >    = Ω(*n* log *n*).
+---
 
 **Integer Sorts**
 
@@ -71,7 +72,7 @@ Insertion sort is a comparison-based algorithm that builds a final sorted array 
 
 ![insertion-sort-image](insertion.gif)
 
-#### Bubble Sort
+#### Bubble Sort_post
 
 Bubble sort is a comparison​-based algorithm that compares each pair of elements in an array and swaps them if they are out of order until the entire array is sorted. For each element in the list, the algorithm compares every pair of elements.
 
