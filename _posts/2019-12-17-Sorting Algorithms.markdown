@@ -68,7 +68,7 @@ Mergesort is a comparison-based algorithm that focuses on how to merge together 
 #### Insertion Sort
 
 Insertion sort is a comparison-based algorithm that builds a final sorted array one element at a time. It iterates through an input array and removes one element per iteration, finds the place the element belongs in the array, and then places it there.
-![insertion-sort-image](_post/insertion.gif)
+![insertion-sort-image](insertion.gif)
 #### Bubble Sort
 
 Bubble sort is a comparison​-based algorithm that compares each pair of elements in an array and swaps them if they are out of order until the entire array is sorted. For each element in the list, the algorithm compares every pair of elements.
@@ -77,12 +77,12 @@ Bubble sort is a comparison​-based algorithm that compares each pair of elemen
 
 Quicksort is a comparison-based algorithm that uses divide-and-conquer to sort an array. The algorithm picks a pivot element, A\[q\], and then rearranges the array into two subarrays A\[p…q−1\], such that all elements are less than A\[q\], and A\[q+1…r\], such that all elements are greater than or equal to A\[q\].
 
-![quick-sort-image](_post/quicksort.gif)
+![quick-sort-image](quicksort.gif)
 #### Heapsort
 
 Heapsort is a comparison-based algorithm that uses a binary heap data structure to sort elements. It divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element and moving that to the sorted region.
 
-![heap-sort-image](_post/heapsort.gif)
+![heap-sort-image](heapsort.gif)
 
 
 
