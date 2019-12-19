@@ -52,6 +52,7 @@ Therefore,
 >    = *n* log *n* − *n* log *e*
 >
 >    = Ω(*n* log *n*).
+
 ---
 
 **Integer Sorts**
