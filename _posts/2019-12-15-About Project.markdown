@@ -11,4 +11,4 @@ Trying to develop modulized algorithms in addition to the standard library, i.e.
 
 All the implemented algorithms are in [algorithm\_headers](https://github.com/yhlim1225/OSS_G6/tree/master/algorithm_headers/) and test source codes are in [demo\_source](https://github.com/yhlim1225/OSS_G6/tree/master/demo_source/)
 
-Please visit out [github\ repository](https://github.com/yhlim1225/OSS_G6)! 
+Please visit out [github repository](https://github.com/yhlim1225/OSS_G6)! 
