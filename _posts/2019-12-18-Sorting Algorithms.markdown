@@ -88,6 +88,21 @@ Heapsort is a comparison-based algorithm that uses a binary heap data structure 
 
 ![heap-sort-image](https://github.com/yhlim1225/oss_g6_web/blob/master/_posts/heapsort.gif)
 
+### Choosing a Sorting Algorithm
 
+----
+
+To choose a sorting algorithm for a particular problem, consider the running time, space complexity, and the expected format of the input list.
+
+| Algorithm      | Best-Case      | Worst-Case     | Average-Case   | Space Complexity | Stable?     |
+|----------------|----------------|----------------|----------------|------------------|-------------|
+| Bubble Sort    | O(n)           | O(*n*^2)       | O(*n*^2)       | O(1)             | Yes         |
+| Insertion Sort | O(n)           | O(*n*^2)       | O(*n*^2)       | O(1)             | Yes         |
+| Selection Sort | O(*n*^2)       | O(*n*^2)       | O(*n*^2)       | O(1)             | No          |
+| Merge Sort     | O(*n* log *n*) | O(*n* log *n*) | O(*n* log *n*) | O(n)             | Yes         |
+| Quick Sort     | O(*n* log *n*) | O(*n*^2)       | O(*n* log *n*) | log n or n       | Usually not |
+| Heap Sort      | O(*n* log *n*) | O(*n* log *n*) | O(*n* log *n*) | O(1)             | No          |
+
+When choosing a sorting algorithm to use, weigh these factors. For example, quicksort is a very fast algorithm but can be pretty tricky to implement; bubble sort is a slow algorithm but is very easy to implement. To sort small sets of data, bubble sort may be a better option since it can be implemented quickly, but for larger datasets, the speedup from quicksort might be worth the trouble implementing the algorithm.
 
 Sorting Algorithms. Brilliant.org. Retrieved 15:04, December 19, 2019, from [https://brilliant.org/wiki/sorting-algorithms/](https://brilliant.org/wiki/sorting-algorithms/)
